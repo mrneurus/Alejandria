@@ -1,11 +1,12 @@
 ---
 title: Another Sample Page
 published: true
+categories: Js
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+ [Link to another page](2017-12-12-Sample-Page). 
 
 There should be whitespace between paragraphs.
 
